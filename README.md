@@ -10,19 +10,19 @@
 
 | Deal | How to Activate | Savings |
 |---|---|---|
-| [Base44 Affiliate Discount](https://base44.pxf.io/c/6539388/2477538/25619?sharedid=git&trafcat=hp) | Click the link — discount applied automatically | Best available rate |
+| [Base44 Affiliate Discount](https://base44.pxf.io/c/6539388/2477538/25619?sharedid=git&trafcat=hp) | Click the link - discount applied automatically | Best available rate |
 | Annual billing | Choose yearly plan at checkout | 20% off monthly price |
-| Free plan | Sign up free — no credit card needed | 500 integration credits included |
+| Free plan | Sign up free - no credit card needed | 500 integration credits included |
 
-> **How it works:** Base44 discounts are applied automatically through verified affiliate links — no coupon code to type. Click the link above, sign up or log in, and the discount activates at checkout.
+> **How it works:** Base44 discounts are applied automatically through verified affiliate links - no coupon code to type. Click the link above, sign up or log in, and the discount activates at checkout.
 
 ---
 
 ## What Is Base44?
 
-Base44 is an AI-powered no-code app builder that lets anyone create fully functional web applications using plain language. You describe what you want — Base44 builds the frontend, backend, database, authentication, and hosting automatically. No IDE. No terminal. No framework.
+Base44 is an AI-powered no-code app builder that lets anyone create fully functional web applications using plain language. You describe what you want - Base44 builds the frontend, backend, database, authentication, and hosting automatically. No IDE. No terminal. No framework.
 
-Launched in late 2024, Base44 reached over 250,000 users in under six months and was acquired by Wix for $80 million in mid-2025 — one of the fastest-validated AI products in the no-code space.
+Launched in late 2024, Base44 reached over 250,000 users in under six months and was acquired by Wix for $80 million in mid-2025 - one of the fastest-validated AI products in the no-code space.
 
 It's the go-to platform for vibe coders, indie hackers, and non-technical founders who want to go from idea to working product in hours, not weeks.
 
@@ -44,11 +44,11 @@ It's the go-to platform for vibe coders, indie hackers, and non-technical founde
 
 ### Which Plan Is Right for You?
 
-- **Free** — Good for testing Base44 before committing. You can build a basic app but will hit limits quickly during active iteration.
-- **Starter ($16/mo)** — Best entry point for personal projects, side projects, and MVPs you're not showing to customers yet. Unlocks unlimited apps and in-app code editing.
-- **Builder ($40/mo)** — The sweet spot for most users. Adds custom domains (essential for any customer-facing app), GitHub integration, and backend functions. Recommended for freelancers and solopreneurs launching real products.
-- **Pro ($80/mo)** — For apps with active users who trigger integrations frequently. Doubles credit limits and adds backend functions for custom server-side logic.
-- **Elite ($160/mo)** — For agencies and businesses running multiple high-traffic apps with heavy AI integration usage.
+- **Free** - Good for testing Base44 before committing. You can build a basic app but will hit limits quickly during active iteration.
+- **Starter ($16/mo)** - Best entry point for personal projects, side projects, and MVPs you're not showing to customers yet. Unlocks unlimited apps and in-app code editing.
+- **Builder ($40/mo)** - The sweet spot for most users. Adds custom domains (essential for any customer-facing app), GitHub integration, and backend functions. Recommended for freelancers and solopreneurs launching real products.
+- **Pro ($80/mo)** - For apps with active users who trigger integrations frequently. Doubles credit limits and adds backend functions for custom server-side logic.
+- **Elite ($160/mo)** - For agencies and businesses running multiple high-traffic apps with heavy AI integration usage.
 
 ---
 
