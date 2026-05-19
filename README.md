@@ -161,7 +161,7 @@ Partial export is available. From the Builder plan upward, you can export your f
 Yes — Base44 is specifically designed for people without coding experience. The core interface is a chat prompt where you describe what you want in plain English. The AI handles all the technical implementation. Most users build their first working app within an hour of signing up. The free plan lets you test this without any commitment. [Try it here](https://base44.pxf.io/c/6539388/2477538/25619?sharedid=git&trafcat=hp).
 
 **Q11. Does Base44 have a student discount?**
-Yes — verified students and teachers can get up to 50% off the Starter plan. Contact Base44 support directly with proof of enrollment or affiliation to claim the education discount.
+Yes - verified students and teachers can get up to 50% off the Starter plan. Contact Base44 support directly with proof of enrollment or affiliation to claim the education discount.
 
 **Q12. When is the best time to buy Base44 for maximum savings?**
 Outside of seasonal sales, using a verified affiliate link combined with annual billing gives you the best everyday pricing. Historically, the biggest Base44 promotions have appeared during Black Friday (November) and New Year campaigns. However, Base44's growth rate means pricing changes frequently — the current discount through [this link](https://base44.pxf.io/c/6539388/2477538/25619?sharedid=git&trafcat=hp) is the best currently available.
